@@ -400,6 +400,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   
   <project path="vendor/kow" name="android_vendor_kow" remote="kow" revision="kitkat" />
-  <project path="vendor/gapps" name="gapps_kitkat" remote="kow" />
+  <project path="vendor/gapps" name="gapps_kitkat" remote="kow" revision="kitkat" />
 
 </manifest>
